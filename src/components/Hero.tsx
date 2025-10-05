@@ -38,7 +38,7 @@ const Hero = () => {
                         className="hero-title"
                         variants={itemVariants}
                     >
-                        Hi, I'm <span className="highlight">Your Name</span>
+                        Hi, I'm <span className="highlight">Cristian</span>
                     </motion.h1>
                     <motion.p
                         className="hero-subtitle"

@@ -166,7 +166,7 @@ const Contact = () => {
                 transition={{duration: 0.8, delay: 0.5}}
             >
                 <div className="container">
-                    <p>&copy; 2024 Your Name. All rights reserved.</p>
+                    <p>&copy; 2025 Grabbit. All rights reserved.</p>
                 </div>
             </motion.footer>
         </section>
