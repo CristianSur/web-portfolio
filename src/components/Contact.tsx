@@ -68,25 +68,25 @@ const Contact = () => {
                                 <div className="contact-icon">📧</div>
                                 <div className="contact-details">
                                     <h3>Email</h3>
-                                    <p>your.email@example.com</p>
+                                    <p style={{ color: 'white' }}>your.email@example.com</p>
                                 </div>
                             </div>
                             <div className="contact-item">
                                 <div className="contact-icon">📱</div>
                                 <div className="contact-details">
                                     <h3>Phone</h3>
-                                    <p>+1 (555) 123-4567</p>
+                                    <p style={{ color: 'white' }}>+1 (555) 123-4567</p>
                                 </div>
                             </div>
                             <div className="contact-item">
                                 <div className="contact-icon">📍</div>
                                 <div className="contact-details">
                                     <h3>Location</h3>
-                                    <p>San Francisco, CA</p>
+                                    <p style={{ color: 'white' }}>San Francisco, CA</p>
                                 </div>
                             </div>
                             <div className="social-links">
-                                <motion.a
+                                <motion.a style={{ color: 'white' }}
                                     href="#"
                                     className="social-link"
                                     whileHover={{scale: 1.2, rotate: 5}}
@@ -94,7 +94,7 @@ const Contact = () => {
                                 >
                                     GitHub
                                 </motion.a>
-                                <motion.a
+                                <motion.a style={{ color: 'white' }}
                                     href="#"
                                     className="social-link"
                                     whileHover={{scale: 1.2, rotate: 5}}
@@ -102,7 +102,7 @@ const Contact = () => {
                                 >
                                     LinkedIn
                                 </motion.a>
-                                <motion.a
+                                <motion.a style={{ color: 'white' }}
                                     href="#"
                                     className="social-link"
                                     whileHover={{scale: 1.2, rotate: 5}}

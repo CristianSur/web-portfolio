@@ -87,7 +87,7 @@ const Skills = () => {
                         className="skills-summary"
                         variants={itemVariants}
                     >
-                        <p>
+                        <p style={{ color: 'white' }}>
                             I'm always learning and staying up-to-date with the latest technologies
                             and best practices in web development. I believe in writing clean,
                             maintainable code and creating user experiences that are both beautiful
