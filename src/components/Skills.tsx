@@ -6,11 +6,11 @@ const Skills = () => {
     const isInView = useInView(ref, {once: true, margin: "-100px"})
 
     const skills = [
-        {name: 'React', level: 90, color: '#61DAFB'},
-        {name: 'TypeScript', level: 85, color: '#3178C6'},
-        {name: 'Node.js', level: 80, color: '#339933'},
-        {name: 'Python', level: 75, color: '#3776AB'},
-        {name: 'MongoDB', level: 70, color: '#47A248'},
+        {name: 'Java & Kotlin', level: 90, color: '#61DAFB'},
+        {name: 'Python', level: 85, color: '#3178C6'},
+        {name: 'React', level: 80, color: '#339933'},
+        {name: 'Spring', level: 90, color: '#61DAFB'},
+        {name: 'FastAPI', level: 85, color: '#3178C6'},
         {name: 'AWS', level: 65, color: '#FF9900'},
     ]
 
