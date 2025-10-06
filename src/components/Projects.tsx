@@ -17,7 +17,7 @@ const Projects = () => {
         },
         {
             id: 2,
-            title: 'Task Management App',
+            title: 'Task Management App v2',
             description: 'A collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.',
             image: '📋',
             technologies: ['Vue.js', 'Socket.io', 'PostgreSQL', 'Redis'],
